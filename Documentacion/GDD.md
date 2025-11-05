@@ -25,7 +25,7 @@
 
 | **Aspecto**                                         | **Detalles y Relevancia**                                                                                                                                                               |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[[Sistema de creación de personajes (SCP)]]**<br> | Edición profunda de proporciones (**Blend Shapes**): Cara, Cuerpo (Gordo/Flaco, Músculo). Peinados y Accesorios (Activación/Desactivación de modelos). Color de piel/ojos (Materiales). |
+| **[[01 Sistema de creación de personajes (SCP)]]**<br> | Edición profunda de proporciones (**Blend Shapes**): Cara, Cuerpo (Gordo/Flaco, Músculo). Peinados y Accesorios (Activación/Desactivación de modelos). Color de piel/ojos (Materiales). |
 | **Estético**                                        | El personaje debe ser visible en todas las cinemáticas (similar a _Saints Row_). Tiendas de ropa y tatuajes.                                                                            |
 | **Progresión (Habilidades)**                        | **Habilidad Skater**, **Habilidades de Trabajo/Vida** (Lógica, Fuerza, Resistencia). Aprendizaje mediante escuelas, cursos e internet.                                                  |
 | **Estadísticas de Interacción**                     | **Respeto/Reputación:** Afecta la reacción de NPCs y Bandas. **Orientación Sexual:** Libre.                                                                                             |

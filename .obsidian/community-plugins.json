@@ -1,11 +1,12 @@
 [
   "obsidian-wakatime",
   "obsidian-git",
-  "color-folders-files",
   "obsidian-auto-hide",
   "autocorrect-formatter",
   "easy-typing-obsidian",
-  "obsidian-file-color",
   "iconic",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "color-folders-files",
+  "explorer-colors",
+  "git-file-explorer"
 ]

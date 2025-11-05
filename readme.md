@@ -2,12 +2,13 @@ Ok esta documentación almacena, la planificación y desarrollo de Mi nuevo Vide
 
 Fecha de Inicio de desarrollo; 4/11/2023
 
+## Índice General
 
-- Índice General
+
   (.../Documentacion/)
-
 1. Archivo GDD(Game Dev Desing - Diseño de desarrollo de vidojuego)
 	[[GDD]]
-
-2. Sistema de Creción de Personajes
-   [[Sistema de creación de personajes (SCP)]]
+	
+  (.../Documentacion/Desarrollos/Sistema de Creacion de Personaje)
+1. Sistema de Creción de Personajes
+   [[01 Sistema de creación de personajes (SCP)]]

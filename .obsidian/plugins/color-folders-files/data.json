@@ -1,5 +1,30 @@
 {
-  "styles": {},
-  "presets": {},
+  "styles": {
+    "Imageness": {
+      "backgroundColor": "#0c413d",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "applyToSubfolders": true,
+      "applyToFiles": false,
+      "opacity": 0.6
+    },
+    "Documentacion": {
+      "backgroundColor": "#432d76",
+      "applyToSubfolders": true,
+      "opacity": 0.7
+    }
+  },
+  "presets": {
+    "Media": {
+      "backgroundColor": "#0c413d",
+      "textColor": "#ffffff",
+      "isBold": false,
+      "isItalic": false,
+      "applyToSubfolders": true,
+      "applyToFiles": false,
+      "opacity": 0.6
+    }
+  },
   "presetOrder": []
 }

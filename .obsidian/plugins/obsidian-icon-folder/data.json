@@ -25,7 +25,7 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false,
-    "useInternalPlugins": false
+    "debugMode": true,
+    "useInternalPlugins": true
   }
 }

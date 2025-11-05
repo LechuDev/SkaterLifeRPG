@@ -23,8 +23,8 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
-    "rulePage": "file"
+    "emojiMode": true,
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -34,5 +34,18 @@
   "propertyIcons": {},
   "ribbonIcons": {},
   "fileRules": [],
-  "folderRules": []
+  "folderRules": [
+    {
+      "id": "ZDD4l",
+      "name": "Regla sin título",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": false
+    }
+  ]
 }
