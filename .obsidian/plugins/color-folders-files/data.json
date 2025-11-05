@@ -36,5 +36,8 @@
       "textColor": "#d886fe"
     }
   },
-  "presetOrder": []
+  "presetOrder": [
+    "Media",
+    "Documentacion"
+  ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de readme"
+              "title": "Esquema de 01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)"
             }
           },
           {
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,20 +201,21 @@
   },
   "active": "05b9efd47e620aa9",
   "lastOpenFiles": [
-    "Documentacion/GDD.md",
-    "readme.md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104195147.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105042818.png",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104202358.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104202048.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104202036.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201936.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201847.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201655.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201541.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201428.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251104201327.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111712.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111645.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111550.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111527.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111426.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110803.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110731.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110711.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110658.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110632.png",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
+    "readme.md",
+    "Documentacion/GDD.md",
     "Imagenes/Procesos/CreaciomallaBase",
     "Imagenes",
     "Imagenes/Referencias",
