@@ -1,6 +1,12 @@
 {
   "settings": {},
   "Documentacion": {
-    "itemColor": "#ffffff"
+    "itemColor": "#9900ff"
+  },
+  "Imagenes": {
+    "itemColor": "#15c638"
+  },
+  "readme.md": {
+    "itemColor": "#00ffee"
   }
 }

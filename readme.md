@@ -6,9 +6,9 @@ Fecha de Inicio de desarrollo; 4/11/2023
 
 
   (.../Documentacion/)
-1. Archivo GDD(Game Dev Desing - Diseño de desarrollo de vidojuego)
+1. Archivo GDD(Game Dev Design - Diseño de desarrollo de videojuego)
 	[[GDD]]
 	
   (.../Documentacion/Desarrollos/Sistema de Creacion de Personaje)
-1. Sistema de Creción de Personajes
+2. Sistema de Creación de Personajes
    [[01 Sistema de creación de personajes (SCP)]]

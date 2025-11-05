@@ -1,4 +1,7 @@
 {
   "baseFontSizeAction": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "GitHub Theme",
+  "accentColor": "#26671d",
+  "textFontFamily": ""
 }

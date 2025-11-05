@@ -28,7 +28,62 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Documentacion": {
+      "icon": "lucide-clipboard-list",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Documentacion/Desarrollos": {
+      "icon": "🖥️",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje": {
+      "icon": "💆",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md": {
+      "icon": "🤖"
+    },
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md": {
+      "icon": "🧑‍🦲"
+    },
+    "Documentacion/GDD.md": {
+      "icon": "🎮"
+    },
+    "Imagenes": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Imagenes/Procesos": {
+      "icon": "lucide-list-restart",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Imagenes/Procesos/CreaciomallaBase": {
+      "icon": "🧍‍♂️",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "Imagenes/Referencias": {
+      "icon": "lucide-boxes",
+      "unsynced": [
+        "f97ec3af42be79cb"
+      ]
+    },
+    "readme.md": {
+      "icon": "lucide-square-dashed-mouse-pointer"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
