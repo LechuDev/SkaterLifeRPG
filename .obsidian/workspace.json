@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)"
+              "title": "readme"
             }
           }
         ]
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "982b233f1048bde7",
@@ -160,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)"
+              "title": "Esquema de readme"
             }
           },
           {
@@ -199,10 +200,10 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "05b9efd47e620aa9",
+  "active": "5fb1e2485beae69f",
   "lastOpenFiles": [
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105042818.png",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105042818.png",
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111712.png",
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111645.png",
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105111550.png",
@@ -212,7 +213,6 @@
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110731.png",
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110711.png",
     "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110658.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105110632.png",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
     "readme.md",
     "Documentacion/GDD.md",
