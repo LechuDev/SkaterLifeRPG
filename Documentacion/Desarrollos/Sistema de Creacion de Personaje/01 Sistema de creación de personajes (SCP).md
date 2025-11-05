@@ -1,8 +1,9 @@
-Este Documento Explica La creación y Mision del SCP.
+## Documento: Creación y Misión del SCP
 
-El cual sera utilizado para generar al personaje principal y tambien para para generar npc de Manera Alaeatoria por el mapa.
-Esto mediante diferentes Scripst.
+Este documento explica la **creación y propósito del SCP**, el sistema que se utilizará para **generar al personaje principal** y también para **crear NPCs de forma aleatoria** en el mapa, mediante distintos scripts.
 
-Pasos Seguidos para su creacion
+### Pasos realizados para su creación:
 
-[[01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)]]
+- **[[01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)]]**
+    
+

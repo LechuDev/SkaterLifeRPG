@@ -1,4 +1,4 @@
-📘 Documentación del Proyecto
+## 📘 Documentación del Proyecto
 
 Esta documentación almacena la **planificación y desarrollo** de mi nuevo videojuego.
 
