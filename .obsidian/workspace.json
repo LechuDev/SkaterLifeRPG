@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentacion/GDD.md",
+                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/1. Creación de Mallas Principales (1 Hombre, 2 Mujer).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "1. Creación de Mallas Principales (1 Hombre, 2 Mujer)"
             }
           }
         ]
@@ -195,11 +195,14 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "iconic:Abrir libro de reglas": false
     }
   },
   "active": "a6f4b20fefd51657",
   "lastOpenFiles": [
+    "readme.md",
+    "Documentacion/GDD.md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/1. Creación de Mallas Principales (1 Hombre, 2 Mujer).md",
     "Pasted image 20251104182829.png",
     "Pasted image 20251104182739.png",
@@ -215,8 +218,6 @@
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/Sistema de creación de personajes (SCP).md",
     "Sin título.md",
     "Imagenes",
-    "Documentacion/GDD.md",
-    "readme.md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje",
     "Documentacion/Desarrollos",
     "Documentacion"
