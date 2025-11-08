@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16cfddab55fb625d",
+        "id": "ff0ef4186954c8c9",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb1e2485beae69f",
+            "id": "e86731d414ad511c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "982b233f1048bde7",
@@ -200,22 +199,22 @@
       "iconic:Abrir libro de reglas": false
     }
   },
-  "active": "5fb1e2485beae69f",
+  "active": "e86731d414ad511c",
   "lastOpenFiles": [
-    "Pasted image 20251105133220.png",
-    "Pasted image 20251105133139.png",
-    "Pasted image 20251105133125.png",
-    "Pasted image 20251105133033.png",
-    "Pasted image 20251105132922.png",
-    "Pasted image 20251105132853.png",
-    "Pasted image 20251105132740.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105115240.png",
-    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105132552.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105132508.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251105132339.png",
+    "Pasted image 20251107133738.png",
+    "Pasted image 20251107133735.png",
+    "Pasted image 20251107133701.png",
+    "Pasted image 20251107133454.png",
+    "Pasted image 20251107133405.png",
+    "Pasted image 20251107133347.png",
+    "Pasted image 20251107133326.png",
+    "Pasted image 20251107133213.png",
+    "Pasted image 20251107133144.png",
+    "Pasted image 20251107133024.png",
+    "Pasted image 20251107132952.png",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
     "readme.md",
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
     "Documentacion/GDD.md",
     "Imagenes/Procesos/CreaciomallaBase",
     "Imagenes",
