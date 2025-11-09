@@ -2,14 +2,10 @@
   "obsidian-wakatime",
   "obsidian-git",
   "obsidian-auto-hide",
-  "autocorrect-formatter",
-  "easy-typing-obsidian",
-  "iconic",
-  "obsidian-icon-folder",
   "color-folders-files",
-  "explorer-colors",
   "git-file-explorer",
-  "simple-colored-folder",
-  "auto-correct-capitals",
-  "customizable-menu"
+  "explorer-colors",
+  "iconic",
+  "copilot",
+  "obsidian-textgenerator-plugin"
 ]

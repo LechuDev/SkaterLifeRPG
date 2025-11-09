@@ -3,5 +3,6 @@
   "nativeMenus": false,
   "cssTheme": "Terminal2K",
   "accentColor": "#10ada2",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "baseFontSize": 16
 }
