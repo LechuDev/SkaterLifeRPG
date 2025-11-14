@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab4c38dfcfc98191",
+        "id": "62571302bc823778",
         "type": "tabs",
         "children": [
           {
-            "id": "e3912bc176b6bb86",
+            "id": "4090f08a4399e242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "63a7a55263adcfbe",
         "type": "tabs",
-        "dimension": 44.473684210526315,
+        "dimension": 44.47368421052633,
         "children": [
           {
             "id": "05b9efd47e620aa9",
@@ -80,7 +80,7 @@
       {
         "id": "2a7ea816d2daeb9e",
         "type": "tabs",
-        "dimension": 55.52631578947368,
+        "dimension": 55.52631578947367,
         "children": [
           {
             "id": "0bba14ea2f9ee6bf",
@@ -100,8 +100,8 @@
               "type": "copilot-chat-view",
               "state": {},
               "pinned": true,
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5110321044922
+    "width": 409.5110321044922
   },
   "right": {
     "id": "982b233f1048bde7",
@@ -199,8 +199,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -228,20 +228,21 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "0bba14ea2f9ee6bf",
+  "active": "4090f08a4399e242",
   "lastOpenFiles": [
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251112144928.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113120444.png",
+    "readme.md",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113123357.png",
+    "Sin título.md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113120309.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113120257.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113120249.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113115213.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113115202.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113115120.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113114951.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113114822.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113114749.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155529.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155442.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155359.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155236.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154950.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154938.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154922.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154908.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154810.png",
     "copilot/copilot-conversations/Holi_ya_estoy_aqui_para_otra_sesion_pomodoro_estas_listo@20251112_144301.md",
     "copilot/copilot-conversations",
     "copilot",
@@ -266,12 +267,10 @@
     "Chats",
     "Documentacion/GDD.md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
-    "readme.md",
     "Imagenes/Procesos/CreaciomallaBase",
     "Imagenes",
     "Imagenes/Referencias",
     "Imagenes/Procesos",
-    "Sin título.md",
     "Imagenes",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje"
   ]
