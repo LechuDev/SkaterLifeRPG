@@ -6,7 +6,7 @@ Este documento explica la **creación y propósito del SCP**, el sistema que se 
 
 - **[[01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer)]]**
     
-
+- [[01.2 Creación de Rigg ☠️]]
 
 
 ### 🔄 Flujo recomendado

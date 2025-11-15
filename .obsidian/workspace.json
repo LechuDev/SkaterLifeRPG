@@ -33,7 +33,7 @@
       {
         "id": "63a7a55263adcfbe",
         "type": "tabs",
-        "dimension": 44.47368421052633,
+        "dimension": 53.900087642418924,
         "children": [
           {
             "id": "05b9efd47e620aa9",
@@ -80,7 +80,7 @@
       {
         "id": "2a7ea816d2daeb9e",
         "type": "tabs",
-        "dimension": 55.52631578947367,
+        "dimension": 46.09991235758107,
         "children": [
           {
             "id": "0bba14ea2f9ee6bf",
@@ -230,22 +230,21 @@
   },
   "active": "3e3ee184420956af",
   "lastOpenFiles": [
-    "Pasted image 20251115133248.png",
-    "Pasted image 20251115133117.png",
-    "Pasted image 20251115133015.png",
-    "Pasted image 20251115132829.png",
-    "Pasted image 20251115132709.png",
-    "Pasted image 20251115132632.png",
-    "Pasted image 20251115131559.png",
-    "Pasted image 20251115131547.png",
-    "Pasted image 20251115131456.png",
-    "Pasted image 20251115131329.png",
-    "Pasted image 20251115131240.png",
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.2 Creación de Rigg ☠️.md",
+    "Pasted image 20251115145119.png",
+    "Pasted image 20251115145052.png",
+    "Pasted image 20251115144953.png",
+    "Pasted image 20251115144845.png",
+    "Pasted image 20251115144738.png",
+    "Pasted image 20251115144429.png",
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
+    "Pasted image 20251115143520.png",
+    "Pasted image 20251115143224.png",
+    "Pasted image 20251115143035.png",
+    "Pasted image 20251115142954.png",
     "Imagenes/Referencias/Rigging",
     "Pasted.md",
-    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
-    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
     "Imagenes/Referencias/Canales Youtube",
     "Imagenes/Referencias/MallaBase",
     "copilot/copilot-conversations/Ests_bien@20251113_215419.md",
