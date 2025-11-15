@@ -11,14 +11,12 @@
             "id": "4090f08a4399e242",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "Imagenes/Referencias/Canales Youtube/Intercreando - Malla.png"
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
+              "icon": "lucide-image",
+              "title": "Intercreando - Malla"
             }
           }
         ]
@@ -100,8 +98,8 @@
               "type": "copilot-chat-view",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -120,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5110321044922
+    "width": 286.5110321044922
   },
   "right": {
     "id": "982b233f1048bde7",
@@ -228,21 +226,28 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "4090f08a4399e242",
+  "active": "0bba14ea2f9ee6bf",
   "lastOpenFiles": [
-    "readme.md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113123357.png",
-    "Sin título.md",
+    "Imagenes/Referencias/Rigging",
+    "Imagenes/Referencias/Canales Youtube/Ale Baez- Rigging.png",
+    "Imagenes/Referencias/Canales Youtube/Intercreando - Malla.png",
+    "Pasted.md",
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.2 Creación de Rigg ☠️.md",
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155529.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155442.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155359.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113155236.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154950.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154938.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154922.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154908.png",
-    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251113154810.png",
+    "Imagenes/Referencias/Canales Youtube/maisth-Malla.png",
+    "Imagenes/Referencias/MallaBase/001 RefHombre.jpg",
+    "Imagenes/Referencias/Canales Youtube",
+    "Imagenes/Referencias/MallaBase",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114092108.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114095533.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114095442.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114095429.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114095405.png",
+    "Imagenes/Procesos/CreaciomallaBase/Pasted image 20251114095331.png",
+    "copilot/copilot-conversations/Ests_bien@20251113_215419.md",
+    "readme.md",
+    "Sin título.md",
     "copilot/copilot-conversations/Holi_ya_estoy_aqui_para_otra_sesion_pomodoro_estas_listo@20251112_144301.md",
     "copilot/copilot-conversations",
     "copilot",
@@ -265,13 +270,9 @@
     "copilot/copilot-custom-prompts",
     "Chats/chat-2025-11-09T16-27-10-215Z.md",
     "Chats",
-    "Documentacion/GDD.md",
-    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01 Sistema de creación de personajes (SCP).md",
     "Imagenes/Procesos/CreaciomallaBase",
     "Imagenes",
     "Imagenes/Referencias",
-    "Imagenes/Procesos",
-    "Imagenes",
-    "Documentacion/Desarrollos/Sistema de Creacion de Personaje"
+    "Imagenes/Procesos"
   ]
 }

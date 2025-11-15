@@ -22,7 +22,7 @@
   "uncolorQuick": false,
   "rememberDeletedItems": false,
   "dialogState": {
-    "iconMode": true,
+    "iconMode": false,
     "emojiMode": true,
     "rulePage": "folder"
   },
@@ -52,6 +52,9 @@
     },
     "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.1 Creación de Mallas Principales (0 Modelo Base, 1 Hombre, 2 Mujer).md": {
       "icon": "🧑‍🦲"
+    },
+    "Documentacion/Desarrollos/Sistema de Creacion de Personaje/01.2 Creación de Rigg ☠️.md": {
+      "icon": "🦴"
     },
     "Documentacion/GDD.md": {
       "icon": "🎮"
